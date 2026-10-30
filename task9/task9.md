@@ -77,6 +77,7 @@ Enter required supplies: 40
 
 Enter priority: 3
 
+
 ##sample output
 
 ----- RELIEF ALLOCATION REPORT -----
