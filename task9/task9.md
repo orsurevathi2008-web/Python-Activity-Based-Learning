@@ -47,7 +47,7 @@ flowchart TD
     N --> O[Display remaining unmet demand]
     O --> P([Stop])
 ```
-###sample input
+##sample input
 
 Enter number of affected areas: 3
 
