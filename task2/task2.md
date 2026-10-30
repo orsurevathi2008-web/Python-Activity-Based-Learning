@@ -55,7 +55,9 @@ flowchart TD
     Q -->|No| R[Display total amount]
     R --> S([Stop])
 ```
+
 ##Sample output
+
 Enter number of passengers: 3
 
 Passenger 1
@@ -78,7 +80,10 @@ Enter age: 30
 Enter distance in km: 100
 Enter travel class: 1
 Enter ticket status: 2
+```
 ##sample output
+
+
 Ticket Booked Successfully
 Passenger Name: Ravi
 Travel Class: Sleeper
