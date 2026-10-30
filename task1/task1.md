@@ -1,6 +1,9 @@
 ##Programme Statement
+
 The aim of this program is to calculate household electricity bills using different electricity consumption slabs. It calculates the energy charges, fixed charges, surcharges and rebates. It also compares electricity bills across multiple months and identifies unusual increases in electricity consumption bills.
+
 ## Algorithm
+
 1. Start the program.
 2. Read the number of months.
 3. Enter the electricity units consumed for each month.
