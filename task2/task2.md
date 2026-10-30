@@ -1,5 +1,6 @@
 ## Problem Statement
 The aim of this program is to develop a Railway Fare and Reservation Calculator using Python. The program calculates railway ticket fares for multiple passengers based on distance travelled, travel class, age-based concessions, and reservation fees. It also calculates cancellation penalties when a passenger cancels a ticket. Finally, it displays the total fare for all passengers.
+
 ##Algorithm
 1. Start the program.
 2. Enter the number of passengers.
