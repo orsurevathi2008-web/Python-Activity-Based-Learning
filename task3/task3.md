@@ -61,48 +61,78 @@ flowchart TD
 Enter number of passengers: 3
 
 Passenger 1
+
 Enter passenger name: Ravi
+
 Enter age: 30
+
 Enter distance in km: 150
+
 Enter travel class: 1
+
 Enter ticket status: 1
 
 Passenger 2
+
 Enter passenger name: Sita
+
 Enter age: 10
+
 Enter distance in km: 250
+
 Enter travel class: 2
+
 Enter ticket status: 1
 
 Passenger 3
+
 Enter passenger name: Kumar
+
 Enter age: 30
+
 Enter distance in km: 100
+
 Enter travel class: 1
+
 Enter ticket status: 2
 
 
 #Sample output
 
 Ticket Booked Successfully
-Passenger Name: Ravi
+
+Passenger Name: 
+
 Travel Class: Sleeper
+
 Ticket Fare: 175.0
+
 Reservation Fee: 40
+
 Final Amount: Rs. 215.0
 
 Ticket Booked Successfully
+
 Passenger Name: Sita
+
 Travel Class: AC 3 Tier
+
 Ticket Fare: 400.0
+
 Reservation Fee: 40
+
 Final Amount: Rs. 440.0
 
 Ticket Cancelled
+
 Cancellation Penalty: 25.0
+
 Passenger Name: Kumar
+
 Travel Class: Sleeper
+
 Ticket Fare: 100
+
 Final Amount: Rs. 25.0
 
 Total Amount for All Passengers: Rs. 680.0
